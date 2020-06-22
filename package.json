@@ -17,6 +17,7 @@
     "firebase": "^7.15.3",
     "lottie-vuejs": "^0.3.7",
     "quasar": "^1.0.0",
+    "string-minify": "^1.0.1",
     "vue-page-transition": "^0.2.2"
   },
   "devDependencies": {
